@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1493025258 source:d:\codes\graphics2\main.cpp
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+
